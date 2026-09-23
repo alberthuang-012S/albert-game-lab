@@ -37,7 +37,7 @@ const games = [
   {
     name: "Jelly Sudoku 水母數獨",
     category: "puzzle",
-    description: "把水母排進正確位置：每行、每列各一隻，九宮格內野只能有一隻。",
+    description: "把水母排進正確位置：每行、每列各一隻，九宮格內也只能有一隻。",
     url: "https://alberthuang-012s.github.io/012s-jelly-sudoku/",
     image: "reference/jelly sudoku.png",
   },
